@@ -87,15 +87,3 @@ CASE
   ELSE '<10'
 END AS sales_group
 FROM superstore_orders
-
-
-
-
-
-
-
-
-
-
-
-  
